@@ -1,0 +1,17 @@
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\bin\Debug\WpfApplication9.exe.config
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\bin\Debug\WpfApplication9.exe
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\bin\Debug\WpfApplication9.pdb
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.csprojResolveAssemblyReference.cache
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\MainWindow.g.cs
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\App.g.cs
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9_MarkupCompile.cache
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9_MarkupCompile.lref
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\MainWindow.baml
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.g.resources
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.Properties.Resources.resources
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.csproj.GenerateResource.Cache
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.exe
+c:\users\zbynek\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.pdb
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\bin\Debug\WpfApplication9.exe.config
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.exe
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.pdb

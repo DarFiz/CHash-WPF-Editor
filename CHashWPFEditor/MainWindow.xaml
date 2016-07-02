@@ -1,0 +1,47 @@
+﻿<Window x:Class="CHashWPFEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CHashWPFEditor"
+        mc:Ignorable="d"
+        Title="C# WPF Edytor" Height="350" Width="525" KeyDown="Window_KeyDown"
+        Name="glowneOkno" Closed="glowneOkno_Closed">
+
+    
+        <DockPanel>
+            <Menu DockPanel.Dock="Top" Margin="0,0,1,0" >
+            <Menu.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <DockPanel HorizontalAlignment="Stretch"/>
+                </ItemsPanelTemplate>
+            </Menu.ItemsPanel>
+            <MenuItem Header="File">
+                    <MenuItem Header="open" Click="Menu_Open_click" ></MenuItem>
+                <MenuItem Header="save" Click="Menu_Save_click"></MenuItem>
+                <MenuItem Header="close" Click="Menu_Close_Click"></MenuItem>
+            </MenuItem>
+                
+            <MenuItem Header="Edytuj" >
+                <MenuItem Header="Search and Replace" Click="Menu_SearchReplace_Click"></MenuItem>
+            </MenuItem>
+
+            <MenuItem Header="Help" Margin="0" HorizontalAlignment="Right" >
+                <MenuItem Header="O Programie ..." Margin="0" Click="Menu_Help_OProgr_Click" >
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+            
+        <TextBox x:Name="textBox" x:FieldModifier="public" Text="Wpisz tu coś ...">
+            
+        </TextBox>
+
+
+
+
+
+
+    </DockPanel>
+        
+        
+</Window>

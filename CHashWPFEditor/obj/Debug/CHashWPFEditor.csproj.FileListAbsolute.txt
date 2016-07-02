@@ -1,0 +1,16 @@
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\CHashWPFEditor.csprojResolveAssemblyReference.cache
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\MainWindow.g.cs
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\App.g.cs
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\MainWindow.baml
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\CHashWPFEditor.csproj.GenerateResource.Cache
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\SearchWindow.g.cs
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\SearchWindow.baml
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\bin\Debug\CHashWPFEditor.exe.config
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\CHashWPFEditor_MarkupCompile.cache
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\CHashWPFEditor_MarkupCompile.lref
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\bin\Debug\CHashWPFEditor.exe
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\bin\Debug\CHashWPFEditor.pdb
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\CHashWPFEditor.g.resources
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\CHashWPFEditor.Properties.Resources.resources
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\CHashWPFEditor.exe
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Debug\CHashWPFEditor.pdb

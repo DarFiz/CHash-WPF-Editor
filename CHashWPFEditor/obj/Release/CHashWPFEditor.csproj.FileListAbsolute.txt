@@ -1,0 +1,38 @@
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\bin\Release\CHashWPFEditor.exe.config
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\bin\Release\CHashWPFEditor.exe
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\bin\Release\CHashWPFEditor.pdb
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\MainWindow.g.cs
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\SearchWindow.g.cs
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\App.g.cs
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\CHashWPFEditor_MarkupCompile.cache
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\CHashWPFEditor_MarkupCompile.lref
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\MainWindow.baml
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\SearchWindow.baml
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\CHashWPFEditor.g.resources
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\CHashWPFEditor.Properties.Resources.resources
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\CHashWPFEditor.csproj.GenerateResource.Cache
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\CHashWPFEditor.exe
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\CHashWPFEditor.pdb
+e:\Praca\Przerabianie materiału\WpfApplication9\WpfApplication9\obj\Release\CHashWPFEditor.csprojResolveAssemblyReference.cache
+d:\WpfApplication9\WpfApplication9\bin\Release\CHashWPFEditor.exe.config
+d:\WpfApplication9\WpfApplication9\obj\Release\CHashWPFEditor.exe
+d:\WpfApplication9\WpfApplication9\obj\Release\CHashWPFEditor.pdb
+d:\WpfApplication9\CHashWPFEditor\bin\Release\CHashWPFEditor.exe.config
+d:\WpfApplication9\CHashWPFEditor\obj\Release\CHashWPFEditor.exe
+d:\WpfApplication9\CHashWPFEditor\obj\Release\CHashWPFEditor.pdb
+d:\WpfApplication9\CHashWPFEditor\bin\Release\CHashWPFEditor.exe
+d:\WpfApplication9\CHashWPFEditor\bin\Release\CHashWPFEditor.pdb
+d:\WpfApplication9\CHashWPFEditor\obj\Release\CHashWPFEditor.csprojResolveAssemblyReference.cache
+d:\WpfApplication9\CHashWPFEditor\obj\Release\MainWindow.g.cs
+d:\WpfApplication9\CHashWPFEditor\obj\Release\SearchWindow.g.cs
+d:\WpfApplication9\CHashWPFEditor\obj\Release\App.g.cs
+d:\WpfApplication9\CHashWPFEditor\obj\Release\CHashWPFEditor_MarkupCompile.cache
+d:\WpfApplication9\CHashWPFEditor\obj\Release\CHashWPFEditor_MarkupCompile.lref
+d:\WpfApplication9\CHashWPFEditor\obj\Release\MainWindow.baml
+d:\WpfApplication9\CHashWPFEditor\obj\Release\SearchWindow.baml
+d:\WpfApplication9\CHashWPFEditor\obj\Release\CHashWPFEditor.g.resources
+d:\WpfApplication9\CHashWPFEditor\obj\Release\CHashWPFEditor.Properties.Resources.resources
+d:\WpfApplication9\CHashWPFEditor\obj\Release\CHashWPFEditor.csproj.GenerateResource.Cache
+e:\Praca\Przerabianie materiału\CHashWPFEditor\CHashWPFEditor\bin\Release\CHashWPFEditor.exe.config
+e:\Praca\Przerabianie materiału\CHashWPFEditor\CHashWPFEditor\obj\Release\CHashWPFEditor.exe
+e:\Praca\Przerabianie materiału\CHashWPFEditor\CHashWPFEditor\obj\Release\CHashWPFEditor.pdb
